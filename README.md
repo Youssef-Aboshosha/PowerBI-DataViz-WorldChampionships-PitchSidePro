@@ -257,17 +257,18 @@ PitchSide Pro demonstrates how Power BI can evolve beyond static reporting into 
 # 🔗 Resources
 
 - 🏆 Competition: https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Power-BI-Dataviz-World-Champs-Barcelona-Round-1-now-live/ba-p/5206333
+- Live Link: https://app.powerbi.com/groups/dca9d44c-7fac-4d59-b76b-7b85d02a2c60/reports/e3ad4c6e-75ed-4834-8287-7a867459458e?ctid=b97ced59-fd70-450d-98e2-7fde19a6beeb&pbi_source=linkShare
 - 💼 LinkedIn Post: *(Add your post here)*
 - 📂 PBIX File: *(Add link here)*
-- 📊 Dataset: *(Add link here)*
+- 📊 Dataset: https://github.com/shannonlindsay/FabricCommunityContests/tree/main/StarterFiles
 
 ---
 
 # 👤 Author
 
-**Snaper**
+Youssef
 
-Data Analyst | Business Intelligence Developer | Power BI Enthusiast
+Data Analyst | Business Intelligence Developer | Power BI Enthusiast | ETL Developer
 
 Passionate about transforming complex data into executive-grade analytical experiences through storytelling, design, and advanced analytics.
 
