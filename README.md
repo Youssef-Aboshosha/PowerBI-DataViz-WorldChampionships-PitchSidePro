@@ -63,13 +63,15 @@ The dashboard was designed to answer five critical business questions:
 
 ## ⚽ Welcome & Navigation Portal
 
-![Welcome Page](images/image_f93e88.jpg)
+![Welcome Page] <img width="1293" height="685" alt="Screenshot 2026-07-03 165056" src="https://github.com/user-attachments/assets/2ff9fa1e-400c-4059-bb6d-c93bea05b05d" />
+
 
 ---
 
 ## 📊 Executive Financial Pulse
 
-![Executive Financial Pulse](images/image_f9418d.jpg)
+![Executive Financial Pulse]<img width="1375" height="648" alt="Screenshot 2026-07-03 165152" src="https://github.com/user-attachments/assets/a40fdfc3-8380-4b2f-970e-461a2385d403" />
+
 
 ### Key Insights
 - Generated **$11.2M Total Net Revenue**
@@ -82,7 +84,8 @@ The dashboard was designed to answer five critical business questions:
 
 ## 👕 Product & Merchandise Sales Core
 
-![Product & Merchandise Sales Core](images/image_f941ab.jpg)
+![Product & Merchandise Sales Core]<img width="1373" height="651" alt="Screenshot 2026-07-03 165201" src="https://github.com/user-attachments/assets/9558b047-fcbf-436f-903a-0650276089a8" />
+
 
 ### Key Insights
 - Sold over **153.77K units** globally.
@@ -97,7 +100,8 @@ The dashboard was designed to answer five critical business questions:
 
 ## 📱 Digital Funnel & Channel Velocity
 
-![Digital Funnel & Channel Velocity](images/image_f941cd.jpg)
+![Digital Funnel & Channel Velocity]<img width="1362" height="662" alt="Screenshot 2026-07-03 165215" src="https://github.com/user-attachments/assets/a2781753-ac41-4602-97ce-4c057ba76232" />
+
 
 ### Key Insights
 - Processed over **9M user sessions**.
@@ -110,7 +114,8 @@ The dashboard was designed to answer five critical business questions:
 
 ## 👑 Executive Brand Equity & Pricing Strategy
 
-![Executive Brand Equity & Pricing Strategy](images/image_f94228.jpg)
+![Executive Brand Equity & Pricing Strategy]<img width="1362" height="647" alt="Screenshot 2026-07-03 165238" src="https://github.com/user-attachments/assets/c65774d6-51ac-42c4-aed6-c203afbd9f2d" />
+
 
 ### Key Insights
 - **AeroKick** serves as the portfolio's profit anchor with **$2.16M profit**.
