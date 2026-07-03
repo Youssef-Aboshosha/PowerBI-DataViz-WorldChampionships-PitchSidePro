@@ -1,1 +1,274 @@
-# PowerBI-DataViz-WorldChampionships-PitchSidePro
+# PowerBI-DataViz-WorldChampionships
+
+## ⚽ PitchSide Pro | Executive Football Commerce Intelligence Platform
+
+![PitchSide Pro Banner](images/welcome.png)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-742774?logo=microsoft)
+![DataViz World Championships](https://img.shields.io/badge/Power%20BI%20DataViz%20World%20Championships-Week%201-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Analytics](https://img.shields.io/badge/Type-Executive%20Analytics-success)
+
+---
+
+# 🏆 Official Submission – Power BI DataViz World Championships (Week 1)
+
+**PitchSide Pro** is an immersive executive football commerce intelligence platform designed to transform complex retail and digital commerce data into strategic, executive-level decision making.
+
+The solution unifies:
+
+- 📈 Financial Performance Analytics
+- 👕 Merchandise & Product Intelligence
+- 📱 Digital Funnel Optimization
+- 👑 Brand Equity & Pricing Strategy
+
+into a single, interactive Power BI experience inspired by a professional football command center.
+
+---
+
+# 🎯 Business Objectives
+
+The dashboard was designed to answer five critical business questions:
+
+- Which markets generate the highest profitability?
+- Which products and customer segments drive revenue?
+- Where are users dropping off in the digital purchasing journey?
+- Which brands and promotions are eroding margins?
+- What actions should executives prioritize to improve performance?
+
+---
+
+# ⭐ Solution Highlights
+
+✔ Multi-page executive reporting experience
+
+✔ Fully interactive navigation system
+
+✔ Executive storytelling and action playbooks
+
+✔ AI-powered Key Influencers analysis
+
+✔ Advanced DAX calculations and KPIs
+
+✔ Dynamic decomposition tree analysis
+
+✔ Pricing and promotional effectiveness analysis
+
+✔ Premium football-inspired UI/UX experience
+
+---
+
+# 📸 Dashboard Experience
+
+## ⚽ Welcome & Navigation Portal
+
+![Welcome Page](images/image_f93e88.jpg)
+
+---
+
+## 📊 Executive Financial Pulse
+
+![Executive Financial Pulse](images/image_f9418d.jpg)
+
+### Key Insights
+- Generated **$11.2M Total Net Revenue**
+- Achieved **$5.93M Total Profit**
+- Maintained **52.81% Profit Margin**
+- The **United Kingdom** emerged as the largest profit contributor, accounting for approximately **18.53%** of global profit.
+- Revenue peaked during **August ($1.15M)**, highlighting seasonal demand patterns.
+
+---
+
+## 👕 Product & Merchandise Sales Core
+
+![Product & Merchandise Sales Core](images/image_f941ab.jpg)
+
+### Key Insights
+- Sold over **153.77K units** globally.
+- Generated:
+  - **$1.64M** from Home Kits
+  - **$2.97M** from Away & Third Kits
+  - **$6.61M** from Gear & Accessories
+- **Casual Fans** account for more than **55%** of Home Kit demand.
+- **Hardcore Fans** and **Collectors** demonstrate stronger pricing tolerance and premium purchasing behavior.
+
+---
+
+## 📱 Digital Funnel & Channel Velocity
+
+![Digital Funnel & Channel Velocity](images/image_f941cd.jpg)
+
+### Key Insights
+- Processed over **9M user sessions**.
+- Achieved a **3.24% Conversion Rate**.
+- Identified a critical **78.26% Cart Abandonment Rate**.
+- AI analysis showed the **Mobile App** delivers a **+0.45% conversion uplift** versus Web channels.
+- Highlights major opportunities in checkout optimization and mobile-first engagement strategies.
+
+---
+
+## 👑 Executive Brand Equity & Pricing Strategy
+
+![Executive Brand Equity & Pricing Strategy](images/image_f94228.jpg)
+
+### Key Insights
+- **AeroKick** serves as the portfolio's profit anchor with **$2.16M profit**.
+- **PitchSide Elite** demonstrates significant margin leakage caused by aggressive promotional discounting.
+- Promotional activity during **Holiday & Gifting** periods produced the largest discount impact.
+- Revealed opportunities to optimize pricing structures and improve promotional efficiency.
+
+---
+
+# 🏗 Solution Architecture
+
+### Data Model Design
+The solution follows a **Star Schema architecture** for optimal analytical performance.
+
+### Core Entities
+
+- FactSales
+- DimDate
+- DimProduct
+- DimBrand
+- DimCustomer
+- DimCountry
+- DimChannel
+- DimSegment
+
+---
+
+# ⚙️ Technical Implementation
+
+## Power BI Features Used
+
+- Bookmarks & Page Navigation
+- Dynamic Slicers
+- Custom Tooltips
+- Conditional Formatting
+- Decomposition Tree
+- Key Influencers Visual
+- Dynamic Titles
+- Executive KPI Cards
+- Advanced Matrix Visualizations
+
+---
+
+## DAX Concepts Implemented
+
+- Time Intelligence
+- Revenue Growth Analysis
+- Profit Margin Calculations
+- Revenue Per Order
+- Percent of Total Metrics
+- Dynamic Ranking
+- Context Transition
+- Filter Manipulation
+- Segmentation Measures
+- KPI Benchmarking
+
+---
+
+# 🧠 Analytical Techniques Applied
+
+### Financial Analytics
+- Profitability Analysis
+- Geographic Performance Assessment
+- Revenue Trend Analysis
+- Market Tier Evaluation
+
+### Commercial Analytics
+- Product Mix Analysis
+- Customer Segmentation
+- Unit Economics
+- Pricing Effectiveness
+
+### Digital Analytics
+- Conversion Funnel Analysis
+- Channel Performance Measurement
+- Cart Abandonment Tracking
+- AI-Driven Driver Analysis
+
+### Executive Strategy
+- Promotional Effectiveness
+- Margin Erosion Detection
+- Pricing Optimization
+- Executive Action Planning
+
+---
+
+# 🎨 Design Philosophy
+
+The dashboard intentionally departs from traditional corporate reporting by adopting a **football command center experience**.
+
+Design principles include:
+
+- Premium Glassmorphism UI
+- Immersive Football Pitch Theme
+- Minimal Visual Clutter
+- Executive Storytelling Layout
+- High Information Density
+- Embedded Business Recommendations
+
+The objective was to create an experience that feels closer to a **modern analytics application** than a traditional dashboard.
+
+---
+
+# 📚 Key Learnings
+
+This project strengthened my skills in:
+
+- Executive dashboard storytelling
+- Information hierarchy and UX design
+- Advanced DAX engineering
+- Business-driven data visualization
+- AI-assisted analytics in Power BI
+- Converting analytical findings into actionable recommendations
+- Building immersive analytical experiences
+
+---
+
+# 🛠 Technology Stack
+
+| Component | Technology |
+|-----------|-------------|
+| Visualization | Power BI Desktop |
+| Data Platform | Microsoft Fabric |
+| Modeling | Star Schema |
+| Language | DAX |
+| Analytics | Power Query + DAX |
+| AI | Power BI Key Influencers |
+| Design | Custom UI & Navigation |
+
+---
+
+# 🚀 Project Impact
+
+PitchSide Pro demonstrates how Power BI can evolve beyond static reporting into an executive intelligence platform capable of:
+
+- Monitoring global commerce performance
+- Identifying growth opportunities
+- Optimizing pricing strategies
+- Improving digital conversion efficiency
+- Supporting strategic business decisions
+
+---
+
+# 🔗 Resources
+
+- 🏆 Competition: https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Power-BI-Dataviz-World-Champs-Barcelona-Round-1-now-live/ba-p/5206333
+- 💼 LinkedIn Post: *(Add your post here)*
+- 📂 PBIX File: *(Add link here)*
+- 📊 Dataset: *(Add link here)*
+
+---
+
+# 👤 Author
+
+**Snaper**
+
+Data Analyst | Business Intelligence Developer | Power BI Enthusiast
+
+Passionate about transforming complex data into executive-grade analytical experiences through storytelling, design, and advanced analytics.
+
+⭐ If you enjoyed this project, consider giving the repository a star.
